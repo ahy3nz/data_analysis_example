@@ -11,5 +11,4 @@ This repo contains the file `temp.xvg`. This files contains temperature informat
 4. Add, commit, and push your changes to your fork.
 5. When you have finished the assignment, submit a pull request to the main branch.
 A sample figure is provided below
-![Sample figure]
-(https://github.com/ahy3nz/data_analysis_example/blob/master/solution.png)
+![Sample figure](solution.png)
