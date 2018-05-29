@@ -9,6 +9,13 @@ This repo contains the file `temp.xvg`. This files contains temperature informat
 2. In this repo, make a folder (name should be your username). Your work should all be saved in this folder.
 3. Given these temperatures, construct a figure that compares the probability distribution of the temperature from the simulation and a normal distribution (with mean and standard deviation equivalent to those from the simulation). 
 4. Add, commit, and push your changes to your fork.
-5. When you have finished the assignment, submit a pull request to the main branch.
-A sample figure is provided below
+5. When you have finished the assignment, submit a pull request to the main branch.  
+A sample figure is provided below  
 ![Sample figure](solution.png)
+
+## Hints
+* Numpy has functions to read a file into an array while ignoring comments
+* Numpy has functions to identify the mean and standard deviation of an array
+* Numpy has functions for generating a points according to a normal distribution
+* Matplotlib has functions to generate a histogram figure, with arguments to create a density histogram. 
+* Matplotlib figures have functions to control x/y labels, x/y ticks, x/y ticklabels, titles, and legends
